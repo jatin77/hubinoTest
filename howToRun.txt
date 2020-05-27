@@ -1,0 +1,22 @@
+Hubino Test 
+
+To start Appication
+
+
+Server(Go inside server directory) - 
+        Create Database (node-complete)
+        Import customers.sql
+        Configure the env or use default settings 
+        ( DB_USER='root'
+          DB_PASSWORD=''
+          DB_NAME='node-complete'
+          SERVER_PORT=3100
+        )
+        
+        Install Dependencies - npm i 
+        Run server - npm start
+
+
+Client(Go inside client directory) - 
+        Install Dependencies - npm i 
+        Run client server - npm start
